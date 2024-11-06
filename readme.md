@@ -1,11 +1,11 @@
-Estadis del fichero
+Estados del fichero en git
 
--untracked (nuevo)
+- untracked (nuevo)
 - modified
-- commited
+- commitedgit
 
 Areas de repositorio
 
 - workarea
-stage/index area
+- stage/index area
 - repositorio
